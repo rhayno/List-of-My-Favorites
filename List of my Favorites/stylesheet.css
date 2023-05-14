@@ -1,0 +1,124 @@
+body{
+    background-color: #BBD6B8;
+}
+fieldset{
+    border: 1px solid;
+}
+.article {
+    width: 60%;
+}
+
+.header{
+    width: 60%;
+}
+
+.header-pic{
+    height: 150px;
+    width: 150px;
+    float: left;
+    border: 1px solid;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    width: 100%;
+
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    display: block;
+    padding: 19px;
+    text-align: center;
+}
+
+.nav{
+    background-color: #DBE4C6;
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 1rem;
+}
+
+.title{
+    float: center;
+}
+
+h2{
+    float: left;
+    margin-left: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: bisque;
+}
+
+.content1{
+    background-image: url('./img/desktop-wallpaper-hacksaw-ridge-review-hacksaw-ridge.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 105vh;
+    height: 75vh;
+}
+
+p{
+    width: 54%;
+    color: rgb(234, 255, 46);
+    text-align: justify;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+}
+
+.content2{
+    background-image: url('./img/Filipino-Chicken-Adobo.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 105vh;
+    height: 75vh;
+}
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    margin-left: 15px;
+    text-align: justify;
+    color: rgb(255, 251, 5);
+}
+
+.content3{
+    background-image: url('./img/desktop-wallpaper-mir4-opens-global-pre-mir4.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 105vh;
+    height: 65vh;
+}
+
+.p2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    position: absolute;
+    margin-left: 15px;
+    text-align: justify;
+    color: rgb(60, 235, 60);
+}
+
+footer{
+    float: left;
+    text-align: justify;
+}
+
+.ref{
+    background-color: #94AF9F;
+}
